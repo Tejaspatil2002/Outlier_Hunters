@@ -15,7 +15,7 @@
 <div align="center">
 
 
-### 🌐 Streamlit Link : [Click to Open Streamlit App](https://number-chunchers-lmweeha8cqinu3pj6tnxym.streamlit.p/)
+### 🌐 Streamlit Link : [Click to Open Streamlit App](https://outlierhuntersairlineprofitabilityprediction.streamlit.app/)
 
  </div>
 
