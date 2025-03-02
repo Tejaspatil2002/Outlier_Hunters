@@ -59,7 +59,7 @@ Outlier_Hunters
 
   
    Video Walkthrough of the project :
-  [▶️ Click here To watch the video](https://youtu.be/hyediFNDLa4?si=6mNtCJ02oTELm5)
+  [▶️ Click here To watch the video](https://youtu.be/fvaV6tLK1Jw)
 
 
   </div>
