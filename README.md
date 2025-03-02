@@ -40,7 +40,7 @@ Columns:  18
 <h3>The project aims to:</h3>
 1. Build an accurate, robust ML model for profitability prediction.<br>
 2. Handle seasonal fluctuations and operational inefficiencies.<br>
-3. Ensure model explainability for better decision-making.
+3. Ensure model explainability for better decision-making.<br>
 4. Optimize airline operations with data-driven insights.
 
 
