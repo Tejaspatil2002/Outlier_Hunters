@@ -82,17 +82,14 @@ Outlier_Hunters
 ### ScreenShots 📷
 
 <h4>» Dashboard </h4>
-<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/i" width="700" height="300" alt="Dashboarw">
+<img src="https://github.com/Tejaspatil2002/Outlier_Hunters/blob/main/images/ed1bcc64-39bf-482e-9adb-9c0557cb42a0.jpg" width="700" height="300" alt="Dashboarw">
 
-<h4>»########################</h4>
-<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img6.g" width="700" height="300" alt="Filter Data">
-
-<h4>» ###################### </h4> 
-<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/imag2.jpg" width="700" height="300" alt="Filter Data">
+<h4>» Model Vizualization</h4>
+<img src="https://github.com/Tejaspatil2002/Outlier_Hunters/blob/main/images/249a8db7-3788-4e30-8173-f4405c3d7ccc.jpg" width="700" height="300" alt="Filter Data">
 
 <h4>» Some Code Snippet </h4> 
-<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images10.jpg" width="700" height="300" alt="Filter Data">
-<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/imagmg8.jpg" width="700" height="300" alt="Filter Data">
+<img src="https://github.com/Tejaspatil2002/Outlier_Hunters/blob/main/images/d7deefdc-b706-4884-a3fd-47bfb932cb79.jpg" width="700" height="300" alt="Filter Data">
+<img src="https://github.com/Tejaspatil2002/Outlier_Hunters/blob/main/images/ec8c0aa7-1195-4823-91f3-aece2b26b383.jpg" width="700" height="300" alt="Filter Data">
 
  
  ##
